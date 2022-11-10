@@ -1,4 +1,4 @@
-# https://github.beneasy.workers.dev/https://raw.githubusercontent.com/kid-oh/openclash/main/i.yaml
+# https://cdn.jsdelivr.net/gh/kid-oh/openclash@master/i.yaml
 payload:
   - SRC-IP-CIDR,192.168.1.138/32
   - SRC-IP-CIDR,192.168.1.247/32
