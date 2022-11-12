@@ -4,4 +4,4 @@ payload:
   - SRC-IP-CIDR,192.168.1.138/32
   - SRC-IP-CIDR,192.168.1.247/32
   - SRC-IP-CIDR,192.168.1.150/32
-  - DOMAIN,appstorrent.ru
+#  - DOMAIN,appstorrent.ru
