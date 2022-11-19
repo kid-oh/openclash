@@ -5,3 +5,4 @@ payload:
 #  - SRC-IP-CIDR,192.168.1.150/32
   - DOMAIN-KEYWORD,pikpak
   - SRC-PORT,51413
+  - DST-PORT,51413
