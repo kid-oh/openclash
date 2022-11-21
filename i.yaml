@@ -4,5 +4,7 @@ payload:
   - SRC-IP-CIDR,192.168.1.247/32
 #  - SRC-IP-CIDR,192.168.1.150/32
   - DOMAIN-KEYWORD,pikpak
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tracker.wintersakura.net
   - DOMAIN-KEYWORD,transmission
