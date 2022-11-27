@@ -1,8 +1,8 @@
 # https://ghproxy.com/https://raw.githubusercontent.com/kid-oh/openclash/main/i.yaml
 payload:
-  - DOMAIN-KEYWORD,pikpak
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tracker.wintersakura.net
   - DOMAIN-KEYWORD,transmission
   - DOMAIN-KEYWORD,pt
+  - DOMAIN-SUFFIX,dl*.mypikpak.com
