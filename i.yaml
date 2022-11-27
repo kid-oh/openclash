@@ -5,3 +5,4 @@ payload:
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tracker.wintersakura.net
   - DOMAIN-KEYWORD,transmission
+  - DOMAIN-KEYWORD,pt
