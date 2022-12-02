@@ -7,7 +7,3 @@ payload:
   - DOMAIN-KEYWORD,transmission
   - DOMAIN-KEYWORD,pt
   - DOMAIN-SUFFIX,dl*.mypikpak.com
-  - SRC-PORT,51413
-  - DST-PORT,51413
-  - SRC-PORT,23333
-  - DST-PORT,23333
