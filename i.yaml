@@ -1,8 +1,0 @@
-# https://ghproxy.com/https://raw.githubusercontent.com/kid-oh/openclash/main/i.yaml
-payload:
-  - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
-  - DOMAIN-KEYWORD,announce
-  - DOMAIN-SUFFIX,tracker.wintersakura.net
-  - DOMAIN-KEYWORD,transmission
-  - DOMAIN-KEYWORD,pt
