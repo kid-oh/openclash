@@ -3,6 +3,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.wintersakura.net
   - DOMAIN-KEYWORD,transmission
   - DOMAIN-KEYWORD,pt
-  - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
+  #- DOMAIN-KEYWORD,torrent
+  #- DOMAIN-KEYWORD,tracker
   #- DOMAIN-KEYWORD,announce
