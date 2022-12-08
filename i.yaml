@@ -2,7 +2,6 @@
 payload:
   - DOMAIN-SUFFIX,wintersakura.net
   - DOMAIN-SUFFIX,hdpt.xyz
-  - DOMAIN-KEYWORD,transmission
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,announce
