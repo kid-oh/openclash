@@ -4,5 +4,6 @@ payload:
   - DOMAIN-KEYWORD,hdpt
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
-  - DOMAIN-KEYWORD,announce
-  - SRC-PORT,51413
+  - DOMAIN-KEYWORD,announce.php?passkey=
+  - DOMAIN-KEYWORD,peer_id=
+  - DOMAIN-KEYWORD,info_hash
