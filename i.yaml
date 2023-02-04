@@ -10,3 +10,4 @@ payload:
   - DOMAIN-KEYWORD,announce.php?passkey=
   - DOMAIN-KEYWORD,peer_id=
   - DOMAIN-KEYWORD,info_hash
+  - DOMAIN-KEYWORD,announce
