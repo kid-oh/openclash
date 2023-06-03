@@ -1,10 +1,5 @@
 # https://ghproxy.com/https://raw.githubusercontent.com/kid-oh/openclash/main/i.yaml
 payload:
-  - DOMAIN-KEYWORD,wintersakura
-  - DOMAIN-KEYWORD,hdpt
-  - DOMAIN-KEYWORD,hdtime
-  - DOMAIN-KEYWORD,hdfans
-  - DOMAIN-KEYWORD,hdatmos
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,announce.php?passkey=
