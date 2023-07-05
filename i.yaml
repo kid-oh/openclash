@@ -2,6 +2,7 @@
 payload:
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,announce.php?passkey=
   - DOMAIN-KEYWORD,peer_id=
   - DOMAIN-KEYWORD,info_hash
