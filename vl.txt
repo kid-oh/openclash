@@ -1,15 +1,18 @@
-proxies:
-- type: vless
-  name: vless
-  server: 199.15.76.35
-  port: 443
-  uuid: de97e4b0-6cec-4085-bf79-663e5ff65c22
-  network: ws
-  tls: true
-  udp: false
-  sni: vless.beneasy.xyz
-  client-fingerprint: chrome
-  ws-opts:
-    path: "/?ed=2048"
-    headers:
-      host: vless.beneasy.xyz
+ proxies:   
+  - name: vless
+    type: vless
+    server: 199.15.76.35
+    port: 443
+    uuid: de97e4b0-6cec-4085-bf79-663e5ff65c22
+    udp: true
+    tls: true
+    network: ws
+    sni: vless.beneasy.xyz
+    client-fingerprint: chrome
+    skip-cert-verify: true
+    ws-opts:
+      path: "/?ed=2048"
+      headers:
+        host: vless.beneasy.xyz
+
+    
