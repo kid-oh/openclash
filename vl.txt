@@ -1,18 +1,1 @@
- proxies:   
-  - name: vless
-    type: vless
-    server: 199.15.76.35
-    port: 443
-    uuid: de97e4b0-6cec-4085-bf79-663e5ff65c22
-    udp: true
-    tls: true
-    network: ws
-    sni: vless.beneasy.xyz
-    client-fingerprint: chrome
-    skip-cert-verify: true
-    ws-opts:
-      path: "/?ed=2048"
-      headers:
-        host: vless.beneasy.xyz
-
-    
+IHByb3hpZXM6ICAgCiAgLSBuYW1lOiB2bGVzcwogICAgdHlwZTogdmxlc3MKICAgIHNlcnZlcjogMTk5LjE1Ljc2LjM1CiAgICBwb3J0OiA0NDMKICAgIHV1aWQ6IGRlOTdlNGIwLTZjZWMtNDA4NS1iZjc5LTY2M2U1ZmY2NWMyMgogICAgdWRwOiB0cnVlCiAgICB0bHM6IHRydWUKICAgIG5ldHdvcms6IHdzCiAgICBzbmk6IHZsZXNzLmJlbmVhc3kueHl6CiAgICBjbGllbnQtZmluZ2VycHJpbnQ6IGNocm9tZQogICAgc2tpcC1jZXJ0LXZlcmlmeTogdHJ1ZQogICAgd3Mtb3B0czoKICAgICAgcGF0aDogIi8/ZWQ9MjA0OCIKICAgICAgaGVhZGVyczoKICAgICAgICBob3N0OiB2bGVzcy5iZW5lYXN5Lnh5eg==
