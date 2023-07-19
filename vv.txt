@@ -1,1 +1,0 @@
-vless://de97e4b0-6cec-4085-bf79-663e5ff65c22@199.15.76.35:443?encryption=none&security=tls&sni=vless.beneasy.xyz&fp=chrome&type=ws&host=vless.beneasy.xyz&path=%2F%3Fed%3D2048#vless
