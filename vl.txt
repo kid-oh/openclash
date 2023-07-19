@@ -1,3 +1,4 @@
+proxies:
 - type: vless
   name: vless
   server: 199.15.76.35
